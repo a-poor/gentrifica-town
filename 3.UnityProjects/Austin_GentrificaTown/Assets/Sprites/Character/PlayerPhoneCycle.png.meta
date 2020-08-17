@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 517ea53a78cc74fa9b0c3de1473f8116
+timeCreated: 1523024099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerPhoneCycle
+    21300002: HipsterCharacterPhoneCycle Cropped_02
+    21300004: HipsterCharacterPhoneCycle Cropped_03
+    21300006: HipsterCharacterPhoneCycle Cropped_04
+    21300008: HipsterCharacterPhoneCycle Cropped_05
+    21300010: HipsterCharacterPhoneCycle Cropped_06
+    21300012: HipsterCharacterPhoneCycle Cropped_07
+    21300014: HipsterCharacterPhoneCycle Cropped_08
+    21300016: HipsterCharacterPhoneCycle Cropped_09
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HipsterCharacterPhoneCycle Cropped_02
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1190
+        width: 253
+        height: 857
+      alignment: 9
+      pivot: {x: 0.88142294, y: 0.51225203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HipsterCharacterPhoneCycle Cropped_03
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1184
+        width: 278
+        height: 863
+      alignment: 9
+      pivot: {x: 0.8057554, y: 0.5086906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HipsterCharacterPhoneCycle Cropped_04
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1189
+        width: 334
+        height: 858
+      alignment: 9
+      pivot: {x: 0.66467065, y: 0.51165503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HipsterCharacterPhoneCycle Cropped_05
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 323
+        width: 409
+        height: 860
+      alignment: 9
+      pivot: {x: 0.5427873, y: 0.51046515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HipsterCharacterPhoneCycle Cropped_06
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 315
+        width: 471
+        height: 864
+      alignment: 9
+      pivot: {x: 0.4713376, y: 0.5081019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HipsterCharacterPhoneCycle Cropped_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1181
+        width: 481
+        height: 866
+      alignment: 9
+      pivot: {x: 0.45945945, y: 0.50808316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HipsterCharacterPhoneCycle Cropped_08
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1185
+        width: 470
+        height: 862
+      alignment: 9
+      pivot: {x: 0.46595743, y: 0.5104408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: HipsterCharacterPhoneCycle Cropped_09
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 314
+        width: 463
+        height: 865
+      alignment: 9
+      pivot: {x: 0.47084233, y: 0.5086705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

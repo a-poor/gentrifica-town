@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f3558736c2694647b8b48690bb4684a, type: 3}
+  m_Name: MTAguyConvo1
+  m_EditorClassIdentifier: 
+  ConversationLines:
+  - SpeakingCharacterName: MTA_guy
+    ConversationText: Subway's closed for maintnance
+    DisplayPicture: {fileID: 21300000, guid: aff4056f88c7d4345865b8a50b06a6e3, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: Ok
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: When does it open up again?
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}
+  - SpeakingCharacterName: MTA_guy
+    ConversationText: "hmmm\u2026not sure"
+    DisplayPicture: {fileID: 21300000, guid: aff4056f88c7d4345865b8a50b06a6e3, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: "Ok\u2026thanks"
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}

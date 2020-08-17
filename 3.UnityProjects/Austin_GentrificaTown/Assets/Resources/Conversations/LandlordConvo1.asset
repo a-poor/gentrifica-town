@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f3558736c2694647b8b48690bb4684a, type: 3}
+  m_Name: LandlordConvo1
+  m_EditorClassIdentifier: 
+  ConversationLines:
+  - SpeakingCharacterName: Landlord
+    ConversationText: Can I help you?
+    DisplayPicture: {fileID: 21300000, guid: 296eaa064408b410c913551d3c6c8859, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: I'm new in town and I'm lookin to rent an apartment
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: You know if this place has any rooms available?
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}
+  - SpeakingCharacterName: Landlord
+    ConversationText: "Yeah, I'm the landlord\u2026"
+    DisplayPicture: {fileID: 21300000, guid: 296eaa064408b410c913551d3c6c8859, type: 3}
+  - SpeakingCharacterName: Landlord
+    ConversationText: we 'll be having some new rooms open up pretty soon.
+    DisplayPicture: {fileID: 21300000, guid: 296eaa064408b410c913551d3c6c8859, type: 3}
+  - SpeakingCharacterName: Landlord
+    ConversationText: You got a job or are your parents gonna be paying for it?
+    DisplayPicture: {fileID: 21300000, guid: 296eaa064408b410c913551d3c6c8859, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: No, I got a job.
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}
+  - SpeakingCharacterName: Landlord
+    ConversationText: Alright, well come back and check with me later.
+    DisplayPicture: {fileID: 21300000, guid: 296eaa064408b410c913551d3c6c8859, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: Ok cool. Thanks.
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}

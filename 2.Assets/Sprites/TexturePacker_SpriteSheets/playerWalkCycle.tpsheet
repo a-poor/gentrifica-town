@@ -1,0 +1,28 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:be28b857e213a744a4d6f03bf0e325e8:970851733ccc9080e96115dd8c4daa3d:e8091a6da5f6ccfe15296c13b2680165$
+#
+:format=40300
+:texture=playerWalkCycle.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+HipsterCharacterWalkCycle – Cropped_00;1467;318;253;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_01;569;300;265;869; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_02;838;302;312;868; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_03;5;1169;346;874; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_04;355;1173;330;870; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_05;1467;1179;298;864; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_06;1769;1185;270;858; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_07;1769;326;254;855; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_08;949;1175;256;868; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_09;689;1174;256;869; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_10;5;291;287;874; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_11;296;294;269;871; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_12;1154;303;256;868; 0.5;0.5; 0;0;0;0
+HipsterCharacterWalkCycle – Cropped_13;1209;1176;254;867; 0.5;0.5; 0;0;0;0

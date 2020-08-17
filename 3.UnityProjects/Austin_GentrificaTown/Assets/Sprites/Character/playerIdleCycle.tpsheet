@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:87f9603b23935eb0a080ebc8f29fbe2c:339889fab9ca9f44c2b4c6cbe131c2d5:2b42a8b00325e50fa7715a84b3f1e959$
+#
+:format=40300
+:texture=playerIdleCycle.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+HipsterCharacterIdle_03;5;1186;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_04;5;325;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_07;263;1186;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_09;263;325;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_12;521;1186;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_13;521;325;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_16;779;1186;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_18;779;325;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_21;1037;1186;254;857; 0.5;0.5; 0;0;0;0
+HipsterCharacterIdle_22;1037;325;254;857; 0.5;0.5; 0;0;0;0

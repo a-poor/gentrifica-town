@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f3558736c2694647b8b48690bb4684a, type: 3}
+  m_Name: VloggerConvo1
+  m_EditorClassIdentifier: 
+  ConversationLines:
+  - SpeakingCharacterName: Player
+    ConversationText: Excuse me, I'm looking for an apartment around here.
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: Do you know this neighborh--
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}
+  - SpeakingCharacterName: Vlogger
+    ConversationText: Shhhh!!!!
+    DisplayPicture: {fileID: 21300000, guid: ffa523a41cf614daf8829890985c4920, type: 3}
+  - SpeakingCharacterName: Vlogger
+    ConversationText: I have to edit this vacay photo for my insta!
+    DisplayPicture: {fileID: 21300000, guid: ffa523a41cf614daf8829890985c4920, type: 3}
+  - SpeakingCharacterName: Vlogger
+    ConversationText: It doesn't look effortless enough. Smh.
+    DisplayPicture: {fileID: 21300000, guid: ffa523a41cf614daf8829890985c4920, type: 3}
+  - SpeakingCharacterName: Player
+    ConversationText: Oh sorry about that. I'll leave you alone.
+    DisplayPicture: {fileID: 21300000, guid: 317917e3e6d234bd3aa692b8fcca5157, type: 3}

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 6666a6c78e2094802a1f8d95af32db6e
+timeCreated: 1520351757
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F37 Bolton
+  fontNames:
+  - F37 Bolton
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4fe43cd69080e4f9e99515a28830fdab, type: 3}
+  - {fileID: 12800000, guid: 23c81e879549341feb1368df2d6cc1f9, type: 3}
+  - {fileID: 12800000, guid: 55a9b0ef23e79476ead08c6b541d238b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

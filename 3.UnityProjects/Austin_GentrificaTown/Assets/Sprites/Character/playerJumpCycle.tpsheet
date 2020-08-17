@@ -1,0 +1,24 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:3301d7b1034b4414d317cb2fee4b4a9b:adbad4c5598a92d5164a1bfe0e9a2ba3:602859e57c37bb6c1de12544c107af7c$
+#
+:format=40300
+:texture=playerJumpCycle.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+HipsterCharacterJumpCycle_00;578;1190;253;853; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_01;835;1207;298;836; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_02;1488;1260;357;783; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_03;1137;1250;347;793; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_04;930;371;327;832; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_05;612;337;314;849; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_06;290;313;318;858; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_07;5;1175;307;868; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_08;5;308;281;863; 0.5;0.5; 0;0;0;0
+HipsterCharacterJumpCycle_09;316;1186;258;857; 0.5;0.5; 0;0;0;0
